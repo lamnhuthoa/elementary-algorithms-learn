@@ -16,6 +16,3 @@ For course syllabus, please click [here](https://bigocoding.com/en/courses/green
 - Linked List: Singly Linked List
 - Trees
 - Graphs
-
-## 3. Result
-In November 2025, I was certified by taking the course's final exam.
